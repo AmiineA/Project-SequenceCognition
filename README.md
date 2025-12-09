@@ -13,7 +13,7 @@ python main.py
 
 ## Experimental Design
 
-The session si divided into two phases:
+The session is divided into two phases:
 1. Training: 2 simple sequences (Line, Snake) to familiarize the participant with the interface.
 2. Test : 8 different sequences of increasing compexity.
 
@@ -35,4 +35,5 @@ Al Roumi, F., Marti, S., Wang, L., Amalric, M., & Dehaene, S. (2021). Mental com
 ## Author
 
 Amrani Mohamed Amine
+
 
