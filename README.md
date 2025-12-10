@@ -37,15 +37,13 @@ The session is divided into two phases:
 
 This project builds on research showing that humans compress spatial sequences using simple geometric rules. As complexity increases, performance drops significantly:
 
-- Participants learned **simple patterns within ~2–3 repetitions**, while irregular patterns were often **never learned** within the trial limit :contentReference[oaicite:0]{index=0}
-- **Prediction accuracy** decreases from **>90%** for structured sequences to **<50%** for the most complex ones :contentReference[oaicite:1]{index=1}
-- The brain can **anticipate the next item ~100 ms before** it appears when patterns are regular :contentReference[oaicite:2]{index=2}
-- Neural activity reveals **abstract geometric operations** (rotation, symmetry) independent of the dots’ positions :contentReference[oaicite:3]{index=3}
+- Participants learned **simple patterns within ~2–3 repetitions**, while irregular patterns were often **never learned** within the trial limit
+- **Prediction accuracy** decreases from **>90%** for structured sequences to **<50%** for the most complex ones
+- The brain can **anticipate the next item ~100 ms before** it appears when patterns are regular 
+- Neural activity reveals **abstract geometric operations** (rotation, symmetry) independent of the dots’ positions 
 
 > These results support the **Language of Thought** hypothesis: humans internally compress sequences using nested geometric structure.
 
-**Reference**  
-Al Roumi et al. (2021), *Mental compression of spatial sequences in human working memory* :contentReference[oaicite:4]{index=4}
 
 ## Background / inspiration 
 This project is a 2D grid adaptation of research on the mental compression of geometrical sequences. It is directly inspired by the following article :
@@ -54,6 +52,7 @@ Al Roumi, F., Marti, S., Wang, L., Amalric, M., & Dehaene, S. (2021). Mental com
 ## Author
 
 Amrani Mohamed Amine
+
 
 
 
